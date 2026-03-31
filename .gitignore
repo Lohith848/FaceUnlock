@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -7,6 +8,16 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+=======
+# FaceUnlock - Git Ignore File
+# Protect sensitive data and temporary files
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+>>>>>>> f5882f8 (Initial commit: FaceUnlock project)
 .Python
 build/
 develop-eggs/
@@ -20,6 +31,7 @@ parts/
 sdist/
 var/
 wheels/
+<<<<<<< HEAD
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -205,3 +217,57 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sensitive Data - DO NOT COMMIT
+data/profile.pkl
+data/config.json
+data/.key
+data/.salt
+data/.password.enc
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Camera/Video
+*.avi
+*.mp4
+*.mov
+
+# Credentials
+.env
+.env.local
+.env.*.local
+
+# Windows
+*.exe
+*.dll
+*.msi
+>>>>>>> f5882f8 (Initial commit: FaceUnlock project)
