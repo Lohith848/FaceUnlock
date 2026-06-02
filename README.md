@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FaceLock
 =======
 # FaceUnlock
@@ -325,3 +324,8 @@ For issues and questions:
 
 **Note**: This project is for personal use. Ensure you have permission to use face recognition on any system. Always follow local laws and regulations regarding biometric data.
 >>>>>>> f5882f8 (Initial commit: FaceUnlock project)
+
+
+---
+
+By LOHITH G 🌻
