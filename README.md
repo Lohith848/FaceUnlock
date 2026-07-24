@@ -1,4 +1,4 @@
-# FaceUnlock
+# FaceUnlock for PC
 
 A face recognition unlock system for Windows laptops. Automatically unlocks your laptop when it detects your face, eliminating the need to type your password every time.
 
